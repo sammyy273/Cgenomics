@@ -1,0 +1,1 @@
+SELECT * FROM cgenomics.cgenomics_csv;
